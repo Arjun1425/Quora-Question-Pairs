@@ -1,6 +1,6 @@
 # Quora Question Pairs
 
-![image](https://github.com/user-attachments/assets/da839876-2f9f-4563-ba00-7cd749289e61)
+![image](https://github.com/user-attachments/assets/8c900f0e-3bd2-44e4-a3b5-e5d527ad3767)
 
 ## 1. Business Problem
 
